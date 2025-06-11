@@ -1,3 +1,16 @@
+""" def multi(l_st):
+    return l_st * l_st
+
+def add(l_st):
+    return l_st + l_st
+
+def reverse(st):
+    return st.reverse """
+
+
+
+"""=========================== THE SOLUTION ======================="""
+
 def multi(l_st):
     result = 1
     for i in l_st:
